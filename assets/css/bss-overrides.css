@@ -1,0 +1,22 @@
+.me-2 {
+  margin-right: 0.5rem !important;
+}
+
+.mb-0 {
+  margin-bottom: 0 !important;
+}
+
+.mb-2 {
+  margin-bottom: 0.5rem !important;
+}
+
+.ms-auto {
+  margin-left: auto !important;
+}
+
+@media (min-width: 768px) {
+  .ms-md-2 {
+    margin-left: 0.5rem !important;
+  }
+}
+
